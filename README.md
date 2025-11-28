@@ -34,7 +34,8 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/amanrj03/finavenue_frontend.git
 cd finavenye-frontend
-3. Install Dependencies
+
+### 3. Install Dependencies
 bash
 Copy code
 # Using npm
