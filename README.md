@@ -31,12 +31,12 @@ Ensure you have the following installed:
 
 ### 2. Clone the Repository
 
-```
+```bash
 git clone https://github.com/amanrj03/finavenue_frontend.git
 cd finavenye-frontend
 ```
 ### 3. Install Dependencies
-```
+```bash
 # Using npm
 npm install
 
