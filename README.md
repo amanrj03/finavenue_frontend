@@ -1,6 +1,6 @@
 # Finavenye Frontend
 
-**Finavenye Frontend** is the user interface for the Finavenye application, designed to provide a seamless and intuitive experience for managing personal finances.
+
 
 ---
 
