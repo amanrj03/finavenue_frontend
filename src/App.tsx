@@ -1,5 +1,3 @@
-"use client"
-
 import { useState } from "react"
 import LoginPage from "./pages/LoginPage"
 import Dashboard from "./pages/Dashboard"
@@ -16,7 +14,7 @@ export default function App() {
   }
 
   return (
-    <div className="bg-gray-50 font-mona">
+    <div className="bg-gray-50 ">
       {isLoggedIn ? <Dashboard onLogout={handleLogout} /> : <LoginPage onLogin={handleLogin} />}
     </div>
   )
