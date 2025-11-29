@@ -1,4 +1,4 @@
-# Finavenye Frontend
+# Finavenue Frontend
 
 
 
@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 
-The Finavenye Frontend is built using modern technologies:
+The Finavenue Frontend is built using modern technologies:
 
 - **React** – JavaScript library for building user interfaces  
 - **TypeScript** – Adds static typing for better code quality and maintainability  
